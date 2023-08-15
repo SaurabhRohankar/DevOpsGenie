@@ -1,0 +1,5 @@
+1) Print the welocme message
+2) Give them the list of avaialable options
+3) ask to choose from the list
+4) detect their linux distro
+5) Install the tool for that distroo
